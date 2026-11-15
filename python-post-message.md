@@ -193,8 +193,21 @@ Please include the following details:
 Applicants must complete the practical test and submit their public GitHub repository link by **22nd November 2026**.
 
 Late submissions may not be considered for the review process.
+## 10. Application Verification
 
-## 10. Final Round – Dxora Panel Interview
+As part of our recruitment process, following our official company social media accounts and sharing your profile links are mandatory verification steps.
+
+**1. Follow Dxora Technologies on LinkedIn**
+
+https://www.linkedin.com/company/dxora-technologies
+
+**2. Follow CREST on Instagram**
+
+https://www.instagram.com/crestspot/
+
+**Important:** Please make sure to share your LinkedIn and Instagram profile links while submitting your application for verification.
+
+## 11. Final Round – Dxora Panel Interview
 
 After reviewing your GitHub repository, our team will evaluate your practical implementation.
 
