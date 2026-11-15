@@ -433,7 +433,21 @@ Once you complete the practical test:
 
 **Submission Deadline: 22nd November 2026.**
 
-## 11. Final Submission – Email Instructions
+## 11. Application Verification
+
+As part of our recruitment process, following our official company social media accounts and sharing your profile links are mandatory verification steps.
+
+**1. Follow Dxora Technologies on LinkedIn**
+
+https://www.linkedin.com/company/dxora-technologies
+
+**2. Follow CREST on Instagram**
+
+https://www.instagram.com/crestspot/
+
+**Important:** Please make sure to share your LinkedIn and Instagram profile links while submitting your application for verification.
+
+## 12. Final Submission – Email Instructions
 
 After completing the practical test, send an email to:
 
@@ -451,7 +465,7 @@ Please include:
 4. Current Location.
 5. Preferred Date and Time for Final Discussion.
 
-## 12. Final Round – Dxora Panel Interview
+## 13. Final Round – Dxora Panel Interview
 
 Our technical team will review your GitHub repository and evaluate your implementation.
 
