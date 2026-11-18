@@ -431,9 +431,9 @@ Once you complete the practical test:
 
 **Duration: Maximum 2 Hours.**
 
-**Submission Deadline: 22nd November 2026.**
+**Submission Deadline: 27nd November 2026.**
 
-## 11. Application Verification
+## 11. Application Verification & Deployment
 
 As part of our recruitment process, following our official company social media accounts and sharing your profile links are mandatory verification steps.
 
@@ -444,6 +444,23 @@ https://www.linkedin.com/company/dxora-technologies
 **2. Follow CREST on Instagram**
 
 https://www.instagram.com/crestspot/
+
+### 3. Deploy Your Practical Test Application
+
+- Deploy your completed FastAPI application on a publicly accessible server.
+- Ensure the API is running and accessible.
+- Provide a **Live Demo URL** for the deployed application.
+- Share the API documentation link (`/docs`) for testing and validation.
+- Ensure the API endpoint is working and returns the expected structured JSON response.
+
+**Example:**
+
+| Requirement | Example |
+|---|---|
+| Live Demo | `https://your-domain.com` |
+| API Endpoint | `https://your-domain.com/link-analysis` |
+| API Documentation | `https://your-domain.com/docs` |
+
 
 **Important:** Please make sure to share your LinkedIn and Instagram profile links while submitting your application for verification.
 
