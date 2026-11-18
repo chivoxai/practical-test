@@ -470,17 +470,18 @@ After completing the practical test, send an email to:
 
 **To:** hr@chivoxai.com
 
-**Subject:** Your Name - Python Practical test review
+**Subject:** Your Name - Python Practical Link Analysis test review
 
 ### Email Body
 
 Please include:
 
 1. Your Full Name.
-2. Public GitHub Repository Link.
-3. Contact Number.
-4. Current Location.
-5. Preferred Date and Time for Final Discussion.
+2. Demo Link
+3. Public GitHub Repository Link.
+4. Contact Number.
+5. Current Location.
+6. Preferred Date and Time for Final Discussion.
 
 ## 13. Final Round – Dxora Panel Interview
 
